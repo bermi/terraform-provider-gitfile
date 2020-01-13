@@ -1,4 +1,4 @@
-module github.com/Yelp/terraform-provider-gitfile
+module github.com/ilya-lesikov/terraform-provider-gitfile
 
 go 1.12
 

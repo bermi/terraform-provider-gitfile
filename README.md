@@ -1,6 +1,6 @@
 # terraform-provider-gitfile
 
-[![Actions Status](https://github.com/Yelp/terraform-provider-gitfile/workflows/release/badge.svg)](https://github.com/Yelp/terraform-provider-gitfile/actions)
+[![Actions Status](https://github.com/ilya-lesikov/terraform-provider-gitfile/workflows/release/badge.svg)](https://github.com/ilya-lesikov/terraform-provider-gitfile/actions)
 
 ## Synopsis
 
